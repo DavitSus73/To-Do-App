@@ -12,7 +12,6 @@ body {
     background-color: #ffffff;
     padding: 35px;
     border-radius: 20px; 
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);  
     width: 380px;
 }
 h1 {
@@ -33,7 +32,6 @@ h1 {
     border: 2px solid transparent;
     border-radius: 12px;
     outline: none;
-    transition: all 0.3s ease;
     font-size: 14px;
 }
 .add-btn {
@@ -94,15 +92,10 @@ h1 {
     margin-right: 8px; 
     transition: all 0.3s ease;
 }
-.edit-btn:hover {
-    background: #f39c12;
-    color: white;
-}
 .todo-list li input {
     border: 1px solid #ddd;
     padding: 5px;
     border-radius: 5px;
-    
     font-family: inherit;
     width: 60%;
 }
