@@ -33,6 +33,7 @@ h1 {
     border-radius: 12px;
     outline: none;
     font-size: 14px;
+    border-color: #667eea;
 }
 .add-btn {
     background: green; 
